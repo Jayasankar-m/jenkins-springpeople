@@ -1,3 +1,3 @@
 # jenkins-springpeople
 
-Sample Project added
+This is a sample project 
